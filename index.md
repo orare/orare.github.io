@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test
+title: orare.dev
 ---
 **Kyle Brown**<br>
 *Software Developer*<br>

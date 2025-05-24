@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test
+title: About Me
 ---
 
 Hi there, my name's Kyle and I'm currently looking for work as a software developer. I've been tinkering with computers for nearly 20 years now and I love playing around with both hardware and software.
